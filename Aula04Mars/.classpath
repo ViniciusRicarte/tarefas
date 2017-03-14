@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Aula04/src"/>
+	<classpathentry kind="src" path="exemplo_depois_refatoracao"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="F:/Vinicius/Arquivos/Faculdade/5º Semestre/ARQDESIS - Rodrigo/Projeto/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Program Files/Eclipse Mars/plugins/org.junit_4.12.0.v201504281640/junit.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://junit-team.github.io/junit/javadoc/latest/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="Arqdesis_04/bin"/>
+</classpath>
